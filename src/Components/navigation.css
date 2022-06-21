@@ -1,0 +1,17 @@
+.Navigation {
+  font-size: calc(10px + 2vmin);
+  color: rgb(17, 13, 13);
+  position: absolute;
+  top: 0;
+  left: 20%;
+  right: 20%;
+  text-align: center;
+ }
+
+h1 {
+  text-transform: uppercase;
+  height: 10vh;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: rgb(17, 13, 13, 0.25)
+}
