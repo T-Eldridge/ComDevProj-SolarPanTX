@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ComDevProj-SolarPanTX/static/css/main.b2338626.css",
+    "main.js": "/ComDevProj-SolarPanTX/static/js/main.d9cd71aa.js",
+    "static/js/787.18939f92.chunk.js": "/ComDevProj-SolarPanTX/static/js/787.18939f92.chunk.js",
+    "static/media/solar_1280p_0.jpg": "/ComDevProj-SolarPanTX/static/media/solar_1280p_0.8a04c8509069eaf37e7a.jpg",
+    "index.html": "/ComDevProj-SolarPanTX/index.html",
+    "main.b2338626.css.map": "/ComDevProj-SolarPanTX/static/css/main.b2338626.css.map",
+    "main.d9cd71aa.js.map": "/ComDevProj-SolarPanTX/static/js/main.d9cd71aa.js.map",
+    "787.18939f92.chunk.js.map": "/ComDevProj-SolarPanTX/static/js/787.18939f92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2338626.css",
+    "static/js/main.d9cd71aa.js"
+  ]
+}
