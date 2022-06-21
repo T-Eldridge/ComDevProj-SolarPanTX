@@ -3,8 +3,8 @@ import './footer.css';
 
 const Footer = () => <div className="Footer">
     <a href="https://www.bbb.org/"><img src="/images/BBB-Logo.jpg" alt="BBB" /></a>
-    <a href="https://www.youtube.com/"><img  src="/images/yt-thumb.jpg" alt="YT"/></a>
-    <a href="https://www.facebook.com/"><img  src="/images/facebook.jpg" alt="FB"/></a>
+    <a href="https://www.youtube.com/"><img  src="images/yt-thumb.jpg" alt="YT"/></a>
+    <a href="https://www.facebook.com/"><img  src="images/facebook.jpg" alt="FB"/></a>
     
 </div>
 
