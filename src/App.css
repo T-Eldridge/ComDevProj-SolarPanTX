@@ -4,7 +4,7 @@ html {
 
 
 .App {
-  background-image: url(/public/images/solar_1280p_0.jpg);
+  background-image: url(./images/solar_1280p_0.jpg);
   background-size: cover;
   min-height: 100vh;
   min-width: 100vw;

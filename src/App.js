@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       
-      <body className='App'>
+      <div className='App'>
         <header className='Navigation'><Greet />   
         </header>
         <div ><About/>
@@ -29,7 +29,7 @@ function App() {
         </div>
         <footer className='Footer'><Footer/>
         </footer>
-      </body>
+      </div>
       
 
       
