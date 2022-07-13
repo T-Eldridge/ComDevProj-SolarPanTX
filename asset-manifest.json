@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ComDevProj-SolarPanTX/static/css/main.147fe784.css",
-    "main.js": "/ComDevProj-SolarPanTX/static/js/main.91093cf2.js",
+    "main.js": "/ComDevProj-SolarPanTX/static/js/main.e491967d.js",
     "static/js/787.18939f92.chunk.js": "/ComDevProj-SolarPanTX/static/js/787.18939f92.chunk.js",
     "static/media/2048px-Instagram_icon.png": "/ComDevProj-SolarPanTX/static/media/2048px-Instagram_icon.b04a414745cff566c72f.png",
     "static/media/solar_1280p_0.jpg": "/ComDevProj-SolarPanTX/static/media/solar_1280p_0.8a04c8509069eaf37e7a.jpg",
@@ -11,11 +11,11 @@
     "static/media/facebook.jpg": "/ComDevProj-SolarPanTX/static/media/facebook.be1b6e832d8e89ef8d25.jpg",
     "index.html": "/ComDevProj-SolarPanTX/index.html",
     "main.147fe784.css.map": "/ComDevProj-SolarPanTX/static/css/main.147fe784.css.map",
-    "main.91093cf2.js.map": "/ComDevProj-SolarPanTX/static/js/main.91093cf2.js.map",
+    "main.e491967d.js.map": "/ComDevProj-SolarPanTX/static/js/main.e491967d.js.map",
     "787.18939f92.chunk.js.map": "/ComDevProj-SolarPanTX/static/js/787.18939f92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147fe784.css",
-    "static/js/main.91093cf2.js"
+    "static/js/main.e491967d.js"
   ]
 }
