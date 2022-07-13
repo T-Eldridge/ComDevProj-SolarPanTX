@@ -15,7 +15,7 @@ function Contact () {
         <motion.h2 layout="position">Need more information?</motion.h2>
     {isOpen && ( 
     <motion.div className="expand">
-        <p>Please feel free to contact us through our social links or visit our youtube for information videos</p>
+        <p>Please feel free to contact us through our social links, visit our youtube for information videos, or call (806) 407-0391</p>
     </motion.div>
     )}
     </motion.div>
